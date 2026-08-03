@@ -51,8 +51,8 @@ Designing an Electron-led, offline-first hospital-records and clinic-administrat
 | Project | Contribution and technologies |
 | --- | --- |
 | **Cinema Booking System** | Team full-stack application with showtime CRUD work using Next.js, React, TypeScript, Express, MongoDB/Mongoose, Zustand, JWT, Socket.io, Jest, Supertest, Docker, and GitHub Actions. |
-| **[FurniView](https://github.com/RavinduSohan/PUSL3122-HCI-Project)** | Furniture room-visualisation system; worked on backend APIs and data models within a Next.js, React, TypeScript, Express, MongoDB, Canvas, and Three.js stack. |
-| **[AI Study Lab](https://github.com/RavinduSohan/FlutterfinalRepo)** | Flutter study application involving HTTP/JSON APIs, OpenAI API integration, response parsing, error handling, Firebase Authentication, and SharedPreferences. |
+| **FurniView** | Furniture room-visualisation system; worked on backend APIs and data models within a Next.js, React, TypeScript, Express, MongoDB, Canvas, and Three.js stack. |
+| **AI Study Lab** | Flutter study application involving HTTP/JSON APIs, OpenAI API integration, response parsing, error handling, Firebase Authentication, and SharedPreferences. |
 | **AQI Monitor** | Laravel air-quality monitoring project using PHP, Blade, PostgreSQL, Chart.js, Google Maps API integration, authentication workflows, dashboards, and Postman. |
 | **Machine Learning and Database Design** | Experimented with MATLAB, sensor preprocessing, feature engineering, neural networks, model evaluation, enhanced ER modelling, normalization, and relational schema design. |
 
