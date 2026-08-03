@@ -4,9 +4,9 @@
   <p>Desktop applications | Full-stack systems | Applied machine learning</p>
 
   <p>
-    <a href="mailto:harindualuthge@gmail.com"><img alt="Open to work" src="https://img.shields.io/badge/Open_to_Work-Graduate_%2F_Junior_Software_Engineer-2ea44f?style=for-the-badge"></a>
+    <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=harindualuthge@gmail.com"><img alt="Open to work" src="https://img.shields.io/badge/Open_to_Work-Graduate_%2F_Junior_Software_Engineer-2ea44f?style=for-the-badge"></a>
     <a href="https://lk.linkedin.com/in/harindu-aluthge"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Harindu_Aluthge-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="mailto:harindualuthge@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=harindualuthge@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-harindualuthge%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
   </p>
 </div>
 
@@ -82,6 +82,6 @@ An offline-first desktop foundation for patient records and clinic administratio
 I am open to Graduate and Junior Software Engineer roles where I can contribute across application development, testing, and continuous improvement.
 
 - [LinkedIn](https://lk.linkedin.com/in/harindu-aluthge)
-- [Email](mailto:harindualuthge@gmail.com)
+- [harindualuthge@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=harindualuthge@gmail.com)
 
 <p align="center"><sub>Thanks for visiting. Explore the repositories below to see the work behind the profile.</sub></p>
