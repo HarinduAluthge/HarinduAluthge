@@ -4,7 +4,7 @@
   <p>Desktop applications | Full-stack systems | Applied machine learning</p>
 
   <p>
-    <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=harindualuthge@gmail.com"><img alt="Open to work" src="https://img.shields.io/badge/Open_to_Work-Graduate_%2F_Junior_Software_Engineer-2ea44f?style=for-the-badge"></a>
+    <img alt="Open to work" src="https://img.shields.io/badge/Open_to_Work-Graduate_%2F_Junior_Software_Engineer-2ea44f?style=for-the-badge">
     <a href="https://lk.linkedin.com/in/harindu-aluthge"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Harindu_Aluthge-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=harindualuthge@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-harindualuthge%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
   </p>
@@ -38,13 +38,13 @@ A Windows point-of-sale and inventory system for an eyewear retailer. It covers 
 
 `C#` `.NET 10` `WPF` `EF Core` `SQLite` `MVVM` `xUnit` `GitHub Actions` `WiX`
 
-### Sinhaloka Hospital Records System - Offline clinical records
+### Sinhaloka Hospital Records System - Electron healthcare desktop application
 
 **Client-context project | Active development | Private repository**
 
-An offline-first desktop foundation for patient records and clinic administration. The work focuses on local records and attachments, role-based access, audit logging, encrypted backups, and export workflows. The current private codebase is built with C#, .NET, WPF, and SQLite; a React and Electron direction is being explored for a future iteration.
+Designing an Electron-led, offline-first hospital-records and clinic-administration application using JavaScript, React, Node.js, and SQLite. The planned interaction model covers patient registration and search, longitudinal records, prescriptions, reports, scans, eye-vision sheets, and billing, with context-isolated Electron boundaries, validated IPC, role-based access, audit trails, encrypted backups, and export workflows.
 
-`C#` `.NET 10` `WPF` `SQLite` `Desktop Architecture` `Offline-first Design`
+`JavaScript` `React` `Electron` `Node.js` `SQLite` `IPC` `Offline-first Design`
 
 ## Academic project experience
 
